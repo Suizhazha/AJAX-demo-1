@@ -2,7 +2,11 @@
 
 
 ## 启动
-`git clone`
-`node-dev server.js 8888`
+```
+
+git clone
+node-dev server.js 8888
+
+```
 
 
